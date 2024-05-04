@@ -5,6 +5,7 @@ Sou desenvolvedor, apaixonado por tecnologia e design :blue_heart:
 - :mag_right: Trabalho como análista de faturamente em uma empresa de Mteriais para construção
 - :ear_of_rice: Sou aluno do Mestre <strong>Gustavo-guanabara</strong>
 - :globe_with_meridians: Este é meu Portifolio profissional -> https://joaovictor-noschang.github.io/Portifolio/
+- :globe_with_meridians: E aqui encontram-se meus projetos pessoais -> https://joaovictor-noschang.github.io/ProjetosPessoais/
 - Atualmente estou melhorando minhas habilidades em JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="15px"/>
 
 ## Linguagem e tecnologias:
@@ -21,8 +22,8 @@ Sou desenvolvedor, apaixonado por tecnologia e design :blue_heart:
 ## Estatisticas:
 <div>
   <a href="https://github.com/joaovictor-noschang">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictor-noschang&layout=compact&langs_count=7&theme=catppuccin_mocha"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictor-noschang&show_icons=true&theme=catppuccin_mocha"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictor-noschang&layout=compact&langs_count=7&theme=vue-dark"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictor-noschang&show_icons=true&theme=vue-dark"/>
 </div>
 
 
