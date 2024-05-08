@@ -2,7 +2,7 @@
 Sou desenvolvedor, apaixonado por tecnologia e design :blue_heart:
 
 - :black_nib: Aluno de Técnico em Análise e Desenvolvimento de Sistema - Instituto Federal Do Mato Grosso
-- :mag_right: Trabalho como análista de faturamente em uma empresa de Mteriais para construção
+- :mag_right: Trabalho como análista de faturamente em uma empresa de Materiais para construção
 - :ear_of_rice: Sou aluno do Mestre <strong>Gustavo-guanabara</strong>
 - :globe_with_meridians: Este é meu Portifolio profissional -> https://joaovictor-noschang.github.io/Portifolio/
 - :globe_with_meridians: E aqui encontram-se meus projetos pessoais -> https://joaovictor-noschang.github.io/ProjetosPessoais/
@@ -31,5 +31,4 @@ Sou desenvolvedor, apaixonado por tecnologia e design :blue_heart:
 ## Contatos
 <div>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-noschang-silva-039a41230/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/joaovictor_788/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
