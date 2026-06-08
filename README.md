@@ -1,41 +1,60 @@
-# Olá! Eu me chamo João Victor!
-Sou desenvolvedor de sistemas, apaixonado por tecnologia e design :blue_heart:
 
-- :black_nib: Aluno de Técnico em Análise e Desenvolvimento de Sistema - IFMT - 6° semestre
-- :globe_with_meridians: Este é meu Portifolio profissional -> https://joaovictor-noschang.github.io/Portifolio/
-- Atualmente estou melhorando minhas habilidades em JavaScript, React e React Native <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="15px"/>
+# Olá! Eu sou o João Victor
 
-## Meus Projetos:
+### Professor | Desenvolvedor | Frontend, UI/UX  & Lógica de Programação
 
-💚 Projeto PlusLife Mobile [Repositório do Projeto](https://github.com/JoaoVictor-Noschang/pdmii_projeto_disciplina).
+Eu sou formado em Análise e Desenvolvimento de Sistema pelo IFMT. Instituição que hoje atuo como Professor do Ensino Básico, Técnico e Tecnológico (EBTT) substituto.
 
-➕ Projeto PlusLife Web [Repositório do Projeto](https://github.com/JoaoVictor-Noschang/pwii_pd).
+Hoje, divido meu tempo entre formar novos talentos — ministrando disciplinas de Lógica de Programação, Programação Web e Análise de Projetos de Sistemas — e o desenvolvimento contínuo de soluções modernas.
 
-🔎 Projeto Buscas [Repositório do Projeto](https://github.com/JoaoVictor-Noschang/projeto_buscas).
+---
 
+## Tecnologias Utilizadas
 
-## Linguagem e tecnologias:
+### Conhecimendo sólido
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40px" height="50" margin="0 10px 0 10px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40px" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  width="40px" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40px" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40px" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40px" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50px" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50px" height="50" />
-</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,nodejs,ts,react,nextjs,tailwind,figma,python,django,postgres,mysql,php&perline=6" />
+  </a>
+</p>
+
+### Em aprendizado
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,cpp,dotnet" />
+  </a>
+</p>
+
+---
+
+## Certificações
+
+| Certificação | Emissor |
+| :--- | :--- |
+| **Scrum Fundamentals Certified (SFC™)** | SCRUMstudy |
+
+---
+
+## Alguns projetos desenvolvidos:
+
+| Projeto | Segmento | Stacks | Repositórios
+| :--- | :--- | :--- | :--- |
+| ➕ Projeto PlusLife Web | Web | Python, Django & SQLite | [Conferir](https://github.com/JoaoVictor-Noschang/pwii_pd) |
+| 💚 PlusLife Mobile | Mobile | JS, ReactNative & SQLite | [Conferir](https://github.com/JoaoVictor-Noschang/pdmii_projeto_disciplina) |
+| 🔎 Projeto Buscas | Web | JS, React, Axios & Docker | [Conferir](https://github.com/JoaoVictor-Noschang/projeto_buscas) |
+
+---
 
 ## Estatisticas:
-<div align="center">
-  <a href="https://github.com/joaovictor-noschang">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictor-noschang&layout=compact&langs_count=7&theme=gotham"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictor-noschang&show_icons=true&theme=gotham"/>
-</div>
 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=joaovictor-noschang&layout=compact&theme=github_dark)
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=joaovictor-noschang&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=joaovictor-noschang&theme=github_dark)
+
+---
 
 ## Contatos
 <div>
